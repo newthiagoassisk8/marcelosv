@@ -72,7 +72,7 @@ Atualmente, sou **CTO e sócio da Sellers**, onde lidero um time multidisciplina
 
 ## Reconhecimento Profissional
 
-De acordo com avaliações técnicas de profissionais de liderança, o perfil de Marcelo atende — e em diversos pontos excede — os critérios esperados de um **Staff Engineer** em empresas de alto nível técnico.
+De acordo com avaliações técnicas de profissionais de liderança, o perfil de Marcelo atende — e em diversos pontos excede — os critérios esperados de um profissional em empresas de alto nível técnico.
 
 Seu histórico evidencia:
 
@@ -81,7 +81,7 @@ Seu histórico evidencia:
 - Atuação como líder técnico influente, promovendo cultura de engenharia, mentoria e boas práticas em múltiplas organizações.
 - Reconhecimento externo através de contribuições open source (Apache Software Foundation), publicação de livro técnico e milhares de alunos impactados em cursos.
 
-Com esse conjunto de competências e entregas, Marcelo se posiciona entre os profissionais mais preparados para atuar como **Staff Engineer** ou em posições de liderança técnica estratégica.
+
 
 ---
 
