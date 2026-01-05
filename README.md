@@ -1,6 +1,6 @@
 # Marcelo Souza Vieira
 
-**CTO & Partner na Sellers**  
+**CTO Contabilidade.com**  
 Florianópolis, SC, Brasil  
 [LinkedIn](https://www.linkedin.com/in/marcelo-souza-vieira-112174a9) | marcelosouzav@gmail.com  
 
