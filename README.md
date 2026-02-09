@@ -1,103 +1,57 @@
-# Marcelo Souza Vieira
+# Thiago Assis - Portfolio
 
-**CTO Contabilidade.com**  
-Florianópolis, SC, Brasil  
-[LinkedIn](https://www.linkedin.com/in/marcelo-souza-vieira-112174a9) | marcelosouzav@gmail.com  
+## Sobre meu escopo de conhecimento e por que acredito ser um bom fit para a vaga
 
----
-
-## Sobre mim
-
-Sou um profissional com quase 20 anos de experiência em tecnologia, apaixonado por construir soluções escaláveis e liderar times de alta performance. Minha atuação tem foco em **arquitetura de sistemas, engenharia de software e liderança técnica**, sempre promovendo inovação com impacto real.
-
-Atualmente, sou **CTO e sócio da Sellers**, onde lidero um time multidisciplinar em uma jornada de crescimento escalável com base em **microservices, DevOps e Cloud Computing**.
-
----
-
-## Visão Geral da Trajetória
-
-- **20 anos de experiência** em tecnologia com atuação prática em grandes desafios.
-- **Líder técnico e estratégico**, com histórico de entrega de produtos de alto impacto e mentoria de times.
-- **Open source contributor** e autor do livro *Sprint Architecture*, compartilhando práticas de arquitetura em times ágeis.
-
----
-
-## Principais Entregas & Impactos
-
-### Sellers (2021 - atual)
-**CTO & Partner**
-
-- **+600% de crescimento em volume de dados** com arquitetura de microservices assíncronos (Kafka, RabbitMQ).
-- **R$30 mil/mês em economia** com otimizações de GKE, BigQuery e autoscaling.
-- **Motor de campanhas em BigQuery** processando milhões de transações/dia com baixa latência.
-- **Implantação de CI/CD (GitHub Actions + SonarQube)**, reduzindo tempo de deploy em 80%.
-- Expansão do time de engenharia com foco em cultura ágil e inovação contínua.
-
-### Evoluum (2018 - 2021)
-**Co-Founder, CTO & Head de Arquitetura/SRE**
-
-- Lançamento do **Konta Digital**, primeiro app financeiro do varejo catarinense.
-- **99,99% de uptime** com infraestrutura GKE + Istio + Prometheus + Elastic APM.
-- Redução de **70% no tempo de deploy** com GitLab CI e GitHub Actions.
-- Liderança em projetos de alto impacto: app Unimed Grande Florianópolis, Marketplace Koerich.
-
-### ContaAzul, Involves, Trier, Infobec (2015 - 2019)
-
-- Unificação de login com Keycloak na ContaAzul usando OAuth2/OIDC.
-- Fundador do time de arquitetura da Involves, definindo padrões de microservices e promovendo cultura de engenharia moderna.
-- Arquitetura EDA na Trier com migração de monolito para microservices (Kafka/RabbitMQ).
-
----
-
-## Especialidades Técnicas
-
-- **Arquitetura de Sistemas**: Microservices, Event-Driven, SOA, DDD.
-- **Cloud & DevOps**: GCP (GKE, BigQuery), AWS, Istio, GitLab CI, GitHub Actions.
-- **Observabilidade**: Elastic APM, Prometheus, Grafana.
-- **Banco de Dados**: PostgreSQL, BigQuery, MongoDB, Redis.
-- **Mensageria**: Kafka, RabbitMQ.
-- **Segurança**: OAuth2, JWT, Spring Security.
-- **CI/CD**: Jenkins, GitLab CI, GitHub Actions, Docker.
-
----
-
-## Contribuições Open Source
-
-- **Apache Software Foundation**: Committer e PMC Member.
-- Projetos: Apache Juneau, JNoSQL (com a Eclipse Foundation).
-- **Livro**: *Sprint Architecture* – práticas de arquitetura para sprints ágeis.
-- **Instrutor**: Cursos de Java com milhares de alunos na Udemy.
-
----
-
-## Reconhecimento Profissional
-
-De acordo com avaliações técnicas de profissionais de liderança, o perfil de Marcelo atende — e em diversos pontos excede — os critérios esperados de um profissional em empresas de alto nível técnico.
-
-Seu histórico evidencia:
-
-- Domínio avançado em arquitetura de sistemas distribuídos e event-driven.
-- Capacidade comprovada de gerar impacto organizacional sistêmico com entregas de alta escala e redução de custos.
-- Atuação como líder técnico influente, promovendo cultura de engenharia, mentoria e boas práticas em múltiplas organizações.
-- Reconhecimento externo através de contribuições open source (Apache Software Foundation), publicação de livro técnico e milhares de alunos impactados em cursos.
+Sou desenvolvedor **JavaScript com foco em Front-end**, atuando principalmente com **React.js**, e acredito estar bem alinhado com o escopo e os requisitos desta vaga de **Desenvolvedor(a) Frontend Júnior**.
 
 
+## Portfolio
+- Canal: https://www.youtube.com/@thiagoassis962
+- Aplicacao em producao: https://totp-generator-e27b.vercel.app/
+- Repositorio do front-end: https://github.com/newthiagoassisk8/totp-generator
+- Repositorio do back-end: https://github.com/newthiagoassisk8/totp-service
+- Video explicando a aplicacao e decisoes tecnicas: https://youtu.be/KkZsXKPP1R0?si=fhnkKCS1YBl6Z6jn
 
----
+## Escopo de conhecimento
+- Desenvolvimento de aplicacoes web de ponta a ponta (front-end e back-end)
+- Integracao entre interface e API
+- Autenticacao e geracao de codigos TOTP
+- Deploy e operacao de aplicacoes em producao
+- Documentacao e comunicacao de decisoes tecnicas
 
-## Formação Acadêmica
+## Interesse na vaga
+Tenho interesse em contribuir com o time e evoluir tecnicamente, trazendo entregas consistentes, foco em qualidade e colaboracao.
+### 🧠 Base técnica e conhecimentos atuais
 
-- **Tecnologia em Sistemas para Internet** – UNISUL
-- **Inglês** – Limerick Language Centre (Irlanda)
-- Diversos cursos técnicos em arquitetura e Java (Caelum)
+Tenho uma base sólida nos fundamentos que considero essenciais para atuar bem em um time de produto:
 
----
+- **HTML semântico e CSS moderno**, com atenção a layout, organização visual e experiência do usuário  
+- **JavaScript (ES6+)**, entendendo bem conceitos como funções, escopo, assincronicidade e consumo de APIs  
+- **React.js**, trabalhando com:
+  - Componentes reutilizáveis
+  - Props e estado
+  - Organização de componentes e lógica de apresentação
+  - Consumo de **APIs REST**
+- **Versionamento com Git**, utilizando fluxo básico de commits e branches
+- Experiência prática ajustando **layouts e estilos** com base em design e UX
 
-## Propósito
+Tenho projetos próprios em produção que me permitiram vivenciar o dia a dia de um produto real, desde o consumo de APIs até decisões de organização de código e manutenção.
 
-Liderar com inovação, formar times excelentes e construir soluções de tecnologia que escalem negócios com impacto real.
+### 🚀 Por que acredito estar qualificado para a vaga
 
----
+Acredito ser um bom fit porque:
 
-> “A melhor arquitetura é aquela que permite que a equipe evolua com confiança e velocidade.”  
-> — Marcelo Souza Vieira
+- Atendo **todos os requisitos obrigatórios da vaga**, especialmente a base em HTML, CSS, JavaScript e React
+- Já tenho experiência prática com **produto real em produção**, o que facilita entender impacto de decisões técnicas
+- Tenho **vontade real de aprender e evoluir tecnicamente**, algo que considero essencial para uma vaga júnior
+- Me sinto confortável recebendo **feedback**, participando de **code reviews** e aprendendo padrões do time
+- Tenho responsabilidade com prazos e organização, mas sem perder a curiosidade técnica
+
+Entendo que ainda tenho muito a aprender — e isso não é um problema, é parte do processo. Busco exatamente um ambiente com **curva de aprendizado clara**, colaboração entre produto e engenharia e espaço para crescimento contínuo.
+
+### 🎯 Objetivo profissional
+
+Meu objetivo é evoluir como desenvolvedor Front-end, fortalecendo ainda mais minha base em React, boas práticas, design de componentes e entendimento de produto, contribuindo de forma consistente para o time enquanto aprendo com pessoas mais experientes.
+
+Estou motivado para crescer junto com o time e ajudar a construir um produto que gere impacto real para os usuários.
+
